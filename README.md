@@ -5,6 +5,6 @@ Hello!
     I enjoy working with Javascript, SQL, HTML, Vue, and React.
     Some of my favroite tools include: Beekeeper Studio, Gitkraken, and Postman.
     
-    [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=grahf0085&count_private=true&theme=tokyonight&showicons=true)]()
-    [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=grahf0085&langs_count=5&theme=tokyonight)]()
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=grahf0085&count_private=true&theme=tokyonight&showicons=true)]()
+   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=grahf0085&langs_count=5&theme=tokyonight)]()
 
