@@ -3,7 +3,7 @@ Hello!
     I'm Tucker.
     I'm a Software Engineer living in Columbia, South Carolina.
     I enjoy working with Javascript, SQL, HTML, Vue, and React.
-    Some of my favroite tools include: Beekeeper Studio, Gitkraken, and Postman.
+    Some of my favroite tools include: VS Codium, Beekeeper Studio, Gitkraken, and Postman.
     Current Project: Website written in Vue.js for a FFXI emulator
     
    [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=grahf0085&count_private=true&theme=tokyonight&showicons=true)]()
