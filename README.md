@@ -1,5 +1,7 @@
 Hello!
 
+Mostly working on gitlab now. https://gitlab.com/Grahf0085
+
     I'm Tucker.
     I'm a Software Engineer living in Columbia, South Carolina.
     I enjoy working with Javascript, SQL, HTML, Vue, and React.
